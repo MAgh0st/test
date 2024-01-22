@@ -36,7 +36,8 @@ CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU da
 4.
 OPERASI 1
 
-![NO 4 OPERASI NO 1 drawio](https://github.com/MAgh0st/test/assets/146688388/f4b27b20-fbe8-4189-9f3f-31fea95967d6)
+![NO 4 NO 1 drawio](https://github.com/MAgh0st/test/assets/146688388/12d48223-31ab-4196-becd-3c748e921eeb)
+
 
 
 OPERASI 2
