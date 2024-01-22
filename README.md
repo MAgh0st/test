@@ -34,7 +34,25 @@ Register : Sebagai Penyimpanan internal bagi CPU
 CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU dam Register-register.
 
 4.
-![NO 4 drawio](https://github.com/MAgh0st/test/assets/146688388/c73b7864-3c71-41da-8d8e-50eb3ce101ee)
+OPERASI 1
+
+![NO 4 OPERASI NO 1 drawio](https://github.com/MAgh0st/test/assets/146688388/f4b27b20-fbe8-4189-9f3f-31fea95967d6)
+
+
+OPERASI 2
+
+![NO 4 OPERASI NO 2 drawio](https://github.com/MAgh0st/test/assets/146688388/625ee92b-3520-4a06-ac94-93912c67652e)
+
+
+OPERASI 3
+
+![NO 4 OPERASI NO 3 drawio](https://github.com/MAgh0st/test/assets/146688388/349fbef4-c9f8-4937-be16-469797a9899a)
+
+
+OPERASI 4
+
+![NO 4 OPERASI 4 drawio](https://github.com/MAgh0st/test/assets/146688388/a20c34e4-8a10-4ef7-a760-a0662388ed74)
+
 
 Data Movement Apparatus : Antarmuka untuk pemindahan data.
 
@@ -43,3 +61,5 @@ Control Mechanism : Pengendali Utama Fungsi Komputer.
 Data Storage Facility : Unit menyimpan data.
 
 Data Processing Facility: Unit pemrosesan data.
+
+
