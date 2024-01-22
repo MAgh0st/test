@@ -1,8 +1,11 @@
 # Mohammad Arief Akbar
 
 **1.	Jelaskan perbedaan utama Organisasi computer dan arsitektur computer? Beri contohnya**
+
 **2.	Gambarkan struktur top level computer dan jelaskan masing-masing fungsi**
+
 **3.	Gambarkan struktur central processing unit da jelaskan masing-masing fungsi?**
+
 **4.	Gambarkan Operasi-operasi computer dan jelaskan masing-masing fungsi?**
 
 1. Organisasi computer, merupakan bagian yang terkait erat dengan unit-unit Operasional. Contohnya : teknologi hardwar, perangkat antarmuka, teknologi memori, system memori dan sinyal sinyal kontrol
